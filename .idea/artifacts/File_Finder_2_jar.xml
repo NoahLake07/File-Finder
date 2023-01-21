@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="File Finder 2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/File_Finder_2_jar</output-path>
+    <root id="archive" name="File Finder 2.jar">
+      <element id="module-output" name="File Finder 2" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/FileMaster.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/FreshUI.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/folder-icon-noahl.png" />
+    </root>
+  </artifact>
+</component>
