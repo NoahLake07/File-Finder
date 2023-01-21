@@ -7,6 +7,7 @@ import freshui.gui.input.Input;
 import freshui.io.Printer;
 import freshui.util.FColor;
 import freshui.util.Resizer;
+import svu.csc213.Dialog;
 
 import javax.swing.*;
 import java.awt.*;
@@ -245,15 +246,11 @@ public class File_Scanner extends FreshUI {
         status.setText("Search Finished in " + hours + ":" + minutes + ":" + seconds +  "::" + nanos);
         status.setForeground(new Color(19, 155, 15));
 
+        Dialog.showMessage("<html>Search Completed.<p>Found "+directoriesFound+" directories and "+filesFound+" files.</html>");
+
     }
 
     static void RecursivePrint(File[] arr, int level) {
-
-        // update status
-        if(true){
-
-        }
-
         File[] var2 = arr;
         int var3 = arr.length;
 
