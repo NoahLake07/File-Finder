@@ -17,7 +17,7 @@ Once you have put in the pathnames, click "Search Directories".
 
 The status label in the bottom left corner just above the search button should read "Searching..."
 
-Please note that if you have not granted this application access to where you are searching, the application will freeze up at the Searching status.
+Please note that if you have not granted this application access to where you are searching, the application will freeze up at the Searching status. For more information on how to allow access, visit [this website](https://support.avast.com/en-us/article/allow-mac-full-disk-access/#mac)
 
 <img width="459" alt="Screen Shot 2023-01-21 at 2 39 38 PM" src="https://user-images.githubusercontent.com/98616672/213888047-00f93146-53c8-4efc-b158-7b8f2a9c1202.png">
 
