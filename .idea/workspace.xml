@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c986fa1b-ef1c-488b-92eb-57e3800068f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/File_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/File_Scanner.java" afterDir="false" />
-    </list>
+    <list default="true" id="c986fa1b-ef1c-488b-92eb-57e3800068f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
