@@ -32,8 +32,13 @@ public class File_Scanner extends FreshUI {
     FButton selectDirectory, selectOutput;
     static JLabel status, fileStatus, folderStatus;
 
+    /* FOR TESTING PURPOSES
     static final String DEFAULT_DIRECTORY = FileMaster.DOCUMENTS_FOLDER;
     static final String DEFAULT_OUTPUT_LOC = FileMaster.DESKTOP_FOLDER;
+     */
+
+    static final String DEFAULT_DIRECTORY = "";
+    static final String DEFAULT_OUTPUT_LOC = "";
 
     // colors
     final public Color DEFAULT_COLOR = new Color(57, 117, 175);
@@ -55,7 +60,7 @@ public class File_Scanner extends FreshUI {
 
         Resizer resizer = new Resizer(this);
         setProgramName("File Scanner");
-        setSize(450,500);
+        setSize(450,320);
 
         Header header = new Header(getWidth(),"File Finder",CENTER,this);
         add(header,0,0);
