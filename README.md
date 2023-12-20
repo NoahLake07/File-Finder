@@ -3,6 +3,8 @@ This app was built using the FreshUI Java Package. It features the ability to
 select any directory (folder) and search every file inside of it, whether the 
 files and folders are hidden, or not hidden.
 
+- Please note that this application was made using an older UI package (acm). Certain functions and features might not work as expected.
+
 ## Using the application
 Upon opening the application, you will see two text inputs, and a large button at the bottom.
 
