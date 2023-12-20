@@ -37,4 +37,4 @@ You may read the file, and enjoy having a fast way to see all files in a folder 
 > Windows Executable: [NOT YET AVAILABLE]
 
 Please note that you will need to have an up-to-date JRE installed. 
-Please visit [Java's download page](java.com/download) for more information.
+Please visit [Java's download page](https://java.com/download) for more information.
